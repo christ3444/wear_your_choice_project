@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370888837539",
+    "project_id": "wearyourchoiceproject",
+    "storage_bucket": "wearyourchoiceproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370888837539:android:9b7fd1125b1d1541553216",
+        "android_client_info": {
+          "package_name": "com.example.wear_your_choice_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370888837539-su9do0rgeeugmtpc2fhol082jdf824c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvZfqB6g19x1KtokI_FUqU-JOGn_iXuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370888837539-su9do0rgeeugmtpc2fhol082jdf824c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
